@@ -53,16 +53,16 @@ Son başvuru tarihi girişi yapılabilmelidir.
 Req 8 : Sistemdeki tüm aktif iş ilanları listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
-Listede firmadı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
+Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
 Req 9 : Sistemdeki tüm aktif iş ilanları tarihe göre listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
-Listede firmadı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
+Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
 Req 10 : Sistemde bir firmaya ait tüm aktif iş ilanları listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
-Listede firmadı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
+Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
 Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir. (Pasif ilan)
