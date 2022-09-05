@@ -1,5 +1,5 @@
-# JavaKamp
- Java kurs ödevleri
+# Sprin boot, PostgreSQL ve Swagger 2 kullanımı ile
+ Java kurs ödevi
  
  05.09.2022
  ÖNEMLİ 1 : Doğrulama işlemleri için sahte servisler oluşturunuz. Örneğin, gerçekten mail göndermeniz gerekmez.
