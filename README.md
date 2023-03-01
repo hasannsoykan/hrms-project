@@ -65,5 +65,7 @@ Liste, tablo formunda gelmelidir.
 Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
 - Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir. (Pasif ilan)
+</br>
+</br>
 
 **Engin Demiroğ Java yazılım geliştirme kampı ödevi**
