@@ -1,14 +1,13 @@
-# Sprin boot, PostgreSQL ve Swagger 2 kullanımı ile
- Java kurs ödevi
+# Spring boot, PostgreSQL ve Swagger 2 kullanımı ile
  
- 05.09.2022
- ÖNEMLİ 1 : Doğrulama işlemleri için sahte servisler oluşturunuz. Örneğin, gerçekten mail göndermeniz gerekmez.
+- 05.09.2022
+- ÖNEMLİ 1 : Doğrulama işlemleri için sahte servisler oluşturunuz. Örneğin, gerçekten mail göndermeniz gerekmez.
 
-ÖNEMLİ 2 : Gereksinimler dışında kodlama yapmayınız. Bu, Proje yönetimi ve ALM (Application LifeCycle Management) kurallarına aykırı bir yazılım geliştirici davranışıdır.
+- ÖNEMLİ 2 : Gereksinimler dışında kodlama yapmayınız. Bu, Proje yönetimi ve ALM (Application LifeCycle Management) kurallarına aykırı bir yazılım geliştirici davranışıdır.
 
 
 
-Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
+- Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
 
 Kabul Kriterleri:
 
@@ -19,7 +18,7 @@ Doğrulama geçerli değilse kullanıcı bilgilendirilir.
 Daha önce kayıtlı bir e-posta veya tcno var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
 Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir.
 
-Req 2 : İş verenler sisteme kayıt olabilmelidir.
+- Req 2 : İş verenler sisteme kayıt olabilmelidir.
 
 Kabul Kriterleri:
 
@@ -28,19 +27,19 @@ Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
 Şirket kayıtları iki şekilde doğrulanır. Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir. HRMS personelinin (bizim :)) onayı gerekmektedir.
 Daha önce kayıtlı bir e-posta var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
 
-Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.
+- Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.
 
 Kabul Kriterleri:
 
 Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
 
-Req 4 : İş verenler listelenebilmelidir. (Sadece tüm liste)
+- Req 4 : İş verenler listelenebilmelidir. (Sadece tüm liste)
 
-Req 5 : İş arayanlar listelenebilmelidir. (Sadece tüm liste)
+- Req 5 : İş arayanlar listelenebilmelidir. (Sadece tüm liste)
 
-Req 6 : İş pozisyonları listelenebilmelidir. (Sadece tüm liste)
+- Req 6 : İş pozisyonları listelenebilmelidir. (Sadece tüm liste)
 
-Req 7 : İş verenler sisteme iş ilanı ekleyebilmelidir.
+- Req 7 : İş verenler sisteme iş ilanı ekleyebilmelidir.
 
 İş ilanı formunda;
 Seçilebilir listeden (dropdown) genel iş pozisyonu seçilebilmelidir.(Örneğin Java Developer)(Zorunlu)
@@ -50,19 +49,21 @@ Maaş skalası için min-max girişi yapılabilmelidir. (Opsiyonel)
 Açık pozisyon adedi girişi yapılabilmelidir. (Zorunlu)
 Son başvuru tarihi girişi yapılabilmelidir.
 
-Req 8 : Sistemdeki tüm aktif iş ilanları listelenebilmelidir.
+- Req 8 : Sistemdeki tüm aktif iş ilanları listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
 Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
-Req 9 : Sistemdeki tüm aktif iş ilanları tarihe göre listelenebilmelidir.
+- Req 9 : Sistemdeki tüm aktif iş ilanları tarihe göre listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
 Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
-Req 10 : Sistemde bir firmaya ait tüm aktif iş ilanları listelenebilmelidir.
+- Req 10 : Sistemde bir firmaya ait tüm aktif iş ilanları listelenebilmelidir.
 
 Liste, tablo formunda gelmelidir.
 Listede firma adı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
-Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir. (Pasif ilan)
+- Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir. (Pasif ilan)
+
+**Engin Demiroğ Java yazılım geliştirme kampı ödevi**
